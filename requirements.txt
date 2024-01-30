@@ -1,0 +1,8 @@
+aiohttp
+fastapi
+fire
+requests
+types-requests # Only needed for mypy
+uvicorn
+gunicorn
+pydantic
